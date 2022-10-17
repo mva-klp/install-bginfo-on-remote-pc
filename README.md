@@ -7,7 +7,7 @@ CMD Windows Installer of BGInfo on the remote PC
 -Run install_bginfo.bat as domain administrator.  
 -Drink coffee during process install.
 
---
+
 -Напишите хосты, которые вам нужны для установки bginfo, в hosts.txt  
 -Скачайте install_bginfo.bat  
 -Загрузите BGInfo и создайте файл конфигурации в этой утилите.  
